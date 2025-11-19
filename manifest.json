@@ -1,11 +1,12 @@
 {
   "name": "Mundo Colorido",
   "short_name": "Mundo Colorido",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#87CEEB",
   "theme_color": "#87CEEB",
   "description": "Uma ferramenta de comunicação e aprendizado emocional para crianças.",
+  "orientation": "landscape",
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/4150/4150367.png",
